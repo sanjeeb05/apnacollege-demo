@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repository
 <br>
-Author- Sanjeeb Pasayat
+Author- Sanjeeb (Apna college)
